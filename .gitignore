@@ -49,6 +49,13 @@ artifacts/
 ## Rider / JetBrains
 .idea/
 
+# Локальные настройки запуска (в VS Code и VS)
+launchSettings.json
+
+# Конфиги с секретами (например, пароли к БД)
+appsettings.Development.json
+appsettings.Local.json
+
 ## Others
 wwwroot/lib/
 node_modules/
